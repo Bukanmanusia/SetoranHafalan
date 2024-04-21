@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="username" type="id" />
+    <item name="password" type="id" />
+    <item name="navBeranda" type="id" />
+    <item name="navSetoran" type="id" />
+    <item name="navRiwayat" type="id" />
+    <item name="drawerLayout" type="id" />
+    <item name="navberandaView" type="id" />
+</resources>

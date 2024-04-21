@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Setoran Hafalan</string>
+    <string name="user_nim">\n\n</string>
+    <string name="user_name" />
+</resources>
